@@ -1,0 +1,11 @@
+Led	KEYWORD2
+getLed	KEYWORD2
+setLed	KEYWORD2
+getState	KEYWORD2
+acender	KEYWORD2
+apagar	KEYWoRD2
+inverter	KEYWORD2
+acender	KEYWORD2
+piscar	KEYWORD2
+isAceso	KEYWORD2
+isPwm	KEYWORD2
